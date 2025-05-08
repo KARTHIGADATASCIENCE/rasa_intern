@@ -1,0 +1,12 @@
+Aptitude Questions: 
+Q1. A train 360 m long is running at 45 km/h. In what time will it pass a bridge 140 m long? - 40 seconds
+Q2. The ratio of ages of two persons is 4:5 and their sum is 72. What are their ages? - 32 and 40 years
+Q3. A shopkeeper buys 80 articles for ₹2400 and sells them at 16% profit. What is the selling price of one article? Rs. 34.80
+
+Logical Reasoning Questions: 
+Q1. Find the next number in the sequence: 2, 6, 12, 20, ?  - 30
+Q2. If 'MANGO' is written as 'NZOHF', how is 'APPLE' written? BQQMV
+Q3. Statements: All engineers are hardworking. Some hardworking people are teachers. 
+   POSSIBLE CONCLUSIONS:
+1) All engineers are hardworking
+2) Some teachers are hardworking
