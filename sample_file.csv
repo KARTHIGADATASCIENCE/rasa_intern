@@ -1,0 +1,77 @@
+Student_ID,Course_Name,Module_Completed,Score,Completion_Date,Time_Spent_Min,Feedback_Rating
+S1001,AI Basics,Module 1,80,01-05-2024,30,4
+S1002,Python,Module 2,90,01-05-2024,45,5
+S1001,AI Basics,Module 2,85,03-05-2024,40,4
+S1003,Data Science,Module 1,75,02-05-2024,35,3
+S1004,AI Basics,Module 1,88,02-05-2024,25,4
+S1005,Python,Module 1,92,03-05-2024,50,5
+S1006,AI Basics,Module 3,78,04-05-2024,30,4
+S1007,Data Science,Module 2,84,04-05-2024,40,5
+S1008,Python,Module 3,80,04-05-2024,55,4
+S1009,AI Basics,Module 2,70,05-05-2024,35,3
+S1010,Data Science,Module 1,85,05-05-2024,45,5
+S1011,Python,Module 2,88,06-05-2024,40,5
+S1012,AI Basics,Module 1,90,06-05-2024,25,5
+S1013,Data Science,Module 3,76,07-05-2024,50,3
+S1014,Python,Module 1,83,07-05-2024,30,4
+S1015,AI Basics,Module 2,87,08-05-2024,38,4
+S1016,Data Science,Module 1,79,08-05-2024,40,4
+S1017,Python,Module 3,91,08-05-2024,60,5
+S1018,AI Basics,Module 3,82,09-05-2024,35,4
+S1019,Data Science,Module 2,86,09-05-2024,48,5
+S1020,Python,Module 2,78,10-05-2024,42,3
+S1021,AI Basics,Module 1,81,10-05-2024,30,4
+S1022,Data Science,Module 3,90,10-05-2024,55,5
+S1023,Python,Module 1,85,11-05-2024,35,4
+S1024,AI Basics,Module 2,89,11-05-2024,40,4
+S1025,Data Science,Module 1,77,12-05-2024,36,3
+S1026,Python,Module 3,92,12-05-2024,50,5
+S1027,AI Basics,Module 3,84,13-05-2024,33,4
+S1028,Data Science,Module 2,80,13-05-2024,45,4
+S1029,Python,Module 2,86,14-05-2024,48,5
+S1030,AI Basics,Module 1,79,14-05-2024,28,3
+S1031,Data Science,Module 3,88,15-05-2024,52,5
+S1032,Python,Module 1,84,15-05-2024,38,4
+S1033,AI Basics,Module 2,83,16-05-2024,37,4
+S1034,Data Science,Module 1,76,16-05-2024,30,3
+S1035,Python,Module 3,89,16-05-2024,55,5
+S1036,AI Basics,Module 3,85,17-05-2024,32,4
+S1037,Data Science,Module 2,82,17-05-2024,43,4
+S1038,Python,Module 2,90,18-05-2024,47,5
+S1039,AI Basics,Module 1,86,18-05-2024,31,4
+S1040,Data Science,Module 3,84,18-05-2024,53,5
+S1041,Python,Module 1,87,19-05-2024,34,4
+S1042,AI Basics,Module 2,88,19-05-2024,39,4
+S1043,Data Science,Module 1,75,20-05-2024,29,3
+S1044,Python,Module 3,93,20-05-2024,58,5
+S1045,AI Basics,Module 3,80,21-05-2024,30,4
+S1046,Data Science,Module 2,89,21-05-2024,46,5
+S1047,Python,Module 2,82,22-05-2024,41,4
+S1048,AI Basics,Module 1,90,22-05-2024,28,5
+S1049,Data Science,Module 3,79,22-05-2024,50,3
+S1050,Python,Module 1,86,23-05-2024,37,4
+S1051,AI Basics,Module 2,85,23-05-2024,36,4
+S1052,Data Science,Module 1,78,24-05-2024,33,3
+S1053,Python,Module 3,94,24-05-2024,57,5
+S1054,AI Basics,Module 3,81,25-05-2024,31,4
+S1055,Data Science,Module 2,87,25-05-2024,44,5
+S1056,Python,Module 2,88,26-05-2024,46,5
+S1057,AI Basics,Module 1,84,26-05-2024,27,4
+S1058,Data Science,Module 3,86,26-05-2024,54,5
+S1059,Python,Module 1,85,27-05-2024,39,4
+S1060,AI Basics,Module 2,86,27-05-2024,38,4
+S1061,Data Science,Module 1,77,28-05-2024,32,3
+S1062,Python,Module 3,91,28-05-2024,56,5
+S1063,AI Basics,Module 3,83,29-05-2024,30,4
+S1064,Data Science,Module 2,85,29-05-2024,42,4
+S1065,Python,Module 2,87,30-05-2024,44,5
+S1066,AI Basics,Module 1,82,30-05-2024,29,4
+S1067,Data Science,Module 3,80,30-05-2024,49,4
+S1068,Python,Module 1,88,31-05-2024,36,4
+S1069,AI Basics,Module 2,87,31-05-2024,37,4
+S1070,Data Science,Module 1,79,01-06-2024,34,3
+S1071,Python,Module 3,90,01-06-2024,55,5
+S1072,AI Basics,Module 3,84,02-06-2024,32,4
+S1073,Data Science,Module 2,83,02-06-2024,43,4
+S1074,Python,Module 2,89,03-06-2024,45,5
+S1075,AI Basics,Module 1,85,03-06-2024,30,4
